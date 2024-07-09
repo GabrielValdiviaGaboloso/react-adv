@@ -6,3 +6,5 @@ export const  LazyPages3 = () =>{
         <h1> LazyPages </h1>
     )
 }
+
+export default LazyPages3;
