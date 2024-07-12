@@ -6,7 +6,7 @@ export const NoLazy = () => {
 
             <h1>No LazyLoad</h1>
 
-        </div>
+        </div> 
 
 
 
