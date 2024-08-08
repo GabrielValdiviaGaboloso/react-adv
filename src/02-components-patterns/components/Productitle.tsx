@@ -12,7 +12,7 @@ export interface Props {
 } 
 
 export const ProductTitle = ({ title, className,style }: Props) => {
-    console.log(className);
+   
     const {product} = useContext(ProductContext)
  
     
